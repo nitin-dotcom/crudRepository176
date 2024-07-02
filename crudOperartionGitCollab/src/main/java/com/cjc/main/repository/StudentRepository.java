@@ -1,8 +1,8 @@
-package com.example.demo.repository;
+package com.cjc.main.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.example.demo.model.Student;
+import com.cjc.main.model.Student;
 
 public interface StudentRepository extends CrudRepository<Student, Integer>{
 

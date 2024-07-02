@@ -1,6 +1,6 @@
-package com.example.demo.service;
+package com.cjc.main.service;
 
-import com.example.demo.model.Student;
+import com.cjc.main.model.Student;
 
 public interface StudentService {
 

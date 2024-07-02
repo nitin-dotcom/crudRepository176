@@ -1,10 +1,10 @@
-package com.example.demo.serviceimpl;
+package com.cjc.main.serviceimpl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.example.demo.model.Student;
-import com.example.demo.repository.StudentRepository;
-import com.example.demo.service.StudentService;
+import com.cjc.main.model.Student;
+import com.cjc.main.repository.StudentRepository;
+import com.cjc.main.service.StudentService;
 
 public class StudentServiceImpl implements StudentService{
 
