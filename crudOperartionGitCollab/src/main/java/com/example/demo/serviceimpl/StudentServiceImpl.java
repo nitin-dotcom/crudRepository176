@@ -1,5 +1,7 @@
 package com.example.demo.serviceimpl;
 
-public class StudentServiceImpl {
+import com.example.demo.service.StudentService;
+
+public class StudentServiceImpl implements StudentService{
 
 }
